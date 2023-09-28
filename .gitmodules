@@ -1,0 +1,9 @@
+[submodule "CogVideo"]
+	path = CogVideo
+	url = https://github.com/THUDM/CogVideo.git
+[submodule "videocomposer"]
+	path = videocomposer
+	url = https://github.com/damo-vilab/videocomposer.git
+[submodule "CogVideo_demo"]
+	path = CogVideo_demo
+	url = https://github.com/hysts/CogVideo_demo
