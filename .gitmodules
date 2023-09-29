@@ -31,3 +31,6 @@
 [submodule "coqui-ai-TTS"]
 	path = coqui-ai-TTS
 	url = https://github.com/coqui-ai/TTS.git
+[submodule "MockingBird"]
+	path = MockingBird
+	url = https://github.com/babysor/MockingBird
