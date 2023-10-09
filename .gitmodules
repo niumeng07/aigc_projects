@@ -34,3 +34,16 @@
 [submodule "MockingBird"]
 	path = MockingBird
 	url = https://github.com/babysor/MockingBird
+[submodule "stable-diffusion"]
+	path = stable-diffusion
+	url = https://github.com/CompVis/stable-diffusion.git
+[submodule "generative-models"]
+	path = generative-models
+	url = https://github.com/Stability-AI/generative-models.git
+[submodule "stable-diffusion-webui"]
+	path = stable-diffusion-webui
+	url = https://github.com/niumeng07/stable-diffusion-webui.git
+	# url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "stablediffusion"]
+	path = stablediffusion
+	url = https://github.com/Stability-AI/stablediffusion.git
