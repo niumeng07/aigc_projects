@@ -18,7 +18,8 @@
 	url = https://github.com/huggingface/transformers.git
 [submodule "diffusers"]
 	path = diffusers
-	url = https://github.com/huggingface/diffusers.git
+	url = https://github.com/niumeng07/diffusers.git
+	# url = https://github.com/huggingface/diffusers.git
 [submodule "audiocraft"]
 	path = audiocraft
 	url = https://github.com/facebookresearch/audiocraft.git
