@@ -51,3 +51,12 @@
 [submodule "text-generation-webui"]
 	path = text-generation-webui
 	url = https://github.com/oobabooga/text-generation-webui.git
+[submodule "LangChain-Chinese-Getting-Started-Guide"]
+	path = LangChain-Chinese-Getting-Started-Guide
+	url = https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide.git
+[submodule "langchain"]
+	path = langchain
+	url = https://github.com/langchain-ai/langchain.git
+[submodule "peft"]
+	path = peft
+	url = https://github.com/huggingface/peft.git
