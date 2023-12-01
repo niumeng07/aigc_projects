@@ -60,3 +60,6 @@
 [submodule "peft"]
 	path = peft
 	url = https://github.com/huggingface/peft.git
+[submodule "AutoGPT"]
+	path = AutoGPT
+	url = git@github.com:Significant-Gravitas/AutoGPT.git
