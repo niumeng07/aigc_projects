@@ -65,4 +65,7 @@
 	url = git@github.com:Significant-Gravitas/AutoGPT.git
 [submodule "deepeval"]
 	path = deepeval
-	url = https://github.com/confident-ai/deepeval.git
+	url = https://github.com/niumeng07/deepeval
+[submodule "llama-recipes"]
+	path = llama-recipes
+	url = https://github.com/niumeng07/llama-recipes
