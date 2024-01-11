@@ -72,3 +72,9 @@
 [submodule "llama.cpp"]
 	path = llama.cpp
 	url = https://github.com/ggerganov/llama.cpp
+[submodule "models/Llama-2-7b-chat-hf"]
+	path = models/Llama-2-7b-chat-hf
+	url = git@hf.co:meta-llama/Llama-2-7b-chat-hf
+[submodule "models/Llama-2-7b-hf"]
+	path = models/Llama-2-7b-hf
+	url = git@hf.co:meta-llama/Llama-2-7b-hf
