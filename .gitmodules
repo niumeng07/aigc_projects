@@ -72,3 +72,6 @@
 [submodule "llama.cpp"]
 	path = llama.cpp
 	url = https://github.com/ggerganov/llama.cpp
+[submodule "streaming-llm"]
+	path = streaming-llm
+	url = https://github.com/mit-han-lab/streaming-llm.git
