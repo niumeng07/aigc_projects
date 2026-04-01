@@ -90,3 +90,15 @@
 [submodule "chat-bot"]
 	path = chat-bot
 	url = git@git.ushareit.me:liuda/chat-bot.git
+[submodule "triton-inference-server/server"]
+	path = triton-inference-server/server
+	url = https://github.com/triton-inference-server/server.git
+[submodule "TensorRT-LLM"]
+	path = TensorRT-LLM
+	url = https://github.com/NVIDIA/TensorRT-LLM.git
+[submodule "chat-server"]
+	path = chat-server
+	url = git@git.ushareit.me:liuda/chat-server.git
+[submodule "lobe-chat"]
+	path = lobe-chat
+	url = ssh://git@github.com/lobehub/lobe-chat
