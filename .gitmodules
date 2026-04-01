@@ -108,3 +108,6 @@
 [submodule "claude-code"]
 	path = claude-code
 	url = git@github.com:niumeng07/claude-code.git
+[submodule "ComfyUI"]
+	path = ComfyUI
+	url = https://github.com/Comfy-Org/ComfyUI.git
