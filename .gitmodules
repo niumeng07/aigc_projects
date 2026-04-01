@@ -102,3 +102,9 @@
 [submodule "lobe-chat"]
 	path = lobe-chat
 	url = ssh://git@github.com/lobehub/lobe-chat
+[submodule "claude-code-source-code"]
+	path = claude-code-source-code
+	url = git@github.com:niumeng07/claude-code-source-code.git
+[submodule "claude-code"]
+	path = claude-code
+	url = git@github.com:niumeng07/claude-code.git
