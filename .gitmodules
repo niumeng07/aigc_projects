@@ -111,3 +111,6 @@
 [submodule "ComfyUI"]
 	path = ComfyUI
 	url = https://github.com/Comfy-Org/ComfyUI.git
+[submodule "openclaw"]
+	path = openclaw
+	url = git@github.com:openclaw/openclaw.git
